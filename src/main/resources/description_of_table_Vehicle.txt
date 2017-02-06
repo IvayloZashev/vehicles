@@ -1,0 +1,10 @@
+
++--------------------+-------------+------+-----+---------+-------+
+| Field              | Type        | Null | Key | Default | Extra |
++--------------------+-------------+------+-----+---------+-------+
+| reg_number         | varchar(10) | NO   | PRI | NULL    |       |
+| model              | varchar(20) | NO   |     | NULL    |       |
+| color              | varchar(20) | NO   |     | NULL    |       |
+| year_manufacturing | int(11)     | NO   |     | NULL    |       |
+| owner              | varchar(30) | NO   |     | NULL    |       |
++--------------------+-------------+------+-----+---------+-------+
